@@ -1,5 +1,7 @@
 # EuroSAT Satellite Image Clustering for Agroecological Assessment
 
+[SOLUTION](https://colab.research.google.com/drive/1a8oqfZ_KUhZjRy3NWH6sRLddvHLLTq1U?usp=sharing)
+
 ## Introduction
 This project demonstrates the application of unsupervised machine learning techniques, specifically cluster analysis, to high-resolution satellite imagery from the EuroSAT dataset. The primary goal is to group images into categories representing different land cover types, which an agricultural management agency can then use for rapid assessment of vulnerable regions following extreme weather events.
 
